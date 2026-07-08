@@ -1,0 +1,16 @@
+W7 - Documentation
+
+Files created:
+- main.py: CLI prompt for price and quantity, prints total.
+- food_order.py: Implements calculate_total(price, quantity) with validation.
+- test_food_order.py: Pytest tests for valid and invalid inputs.
+
+Bug found and fixed:
+- Missing input validation and missing/unclear calculation in the starter template.
+- Implemented `calculate_total` and input validation to avoid crashes and invalid orders.
+
+How to run tests:
+1. Open a terminal in the workspace root.
+2. Change directory: cd "week_7 python"
+3. Install pytest if needed: pip install pytest
+4. Run: pytest -q
