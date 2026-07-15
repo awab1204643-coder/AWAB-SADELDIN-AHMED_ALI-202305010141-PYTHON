@@ -40,3 +40,7 @@ Delivery Charge    : RM 5.00
 TOTAL              : RM 11.30
 
 This matches the expected output shown in your tutorial sheet.
+
+## Demonstration
+
+![Application Demo](demo.gif)
